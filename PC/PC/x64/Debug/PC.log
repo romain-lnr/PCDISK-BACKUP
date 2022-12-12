@@ -2,8 +2,13 @@
 C:\Users\romai\Romain\GitHub DATA\PCDISK-BACKUP\PC\PC\PC.cpp(106,10): warning C4215: extension non standard utilisée : long float
 C:\Users\romai\Romain\GitHub DATA\PCDISK-BACKUP\PC\PC\PC.cpp(107,10): warning C4215: extension non standard utilisée : long float
 C:\Users\romai\Romain\GitHub DATA\PCDISK-BACKUP\PC\PC\PC.cpp(108,10): warning C4215: extension non standard utilisée : long float
-C:\Users\romai\Romain\GitHub DATA\PCDISK-BACKUP\PC\PC\PC.cpp(191,30): warning C4244: '+=' : conversion de '__int64' en 'int', perte possible de données
-C:\Users\romai\Romain\GitHub DATA\PCDISK-BACKUP\PC\PC\PC.cpp(195,67): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
-C:\Users\romai\Romain\GitHub DATA\PCDISK-BACKUP\PC\PC\PC.cpp(225,34): warning C4244: '+=' : conversion de '__int64' en 'int', perte possible de données
-C:\Users\romai\Romain\GitHub DATA\PCDISK-BACKUP\PC\PC\PC.cpp(229,69): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
-  PC.vcxproj -> C:\Users\romai\Romain\GitHub DATA\PCDISK-BACKUP\PC\x64\Debug\PC.exe
+C:\Users\romai\Romain\GitHub DATA\PCDISK-BACKUP\PC\PC\PC.cpp(187,38): error C2059: erreur de syntaxe : '&&'
+C:\Users\romai\Romain\GitHub DATA\PCDISK-BACKUP\PC\PC\PC.cpp(187,92): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\Users\romai\Romain\GitHub DATA\PCDISK-BACKUP\PC\PC\PC.cpp(191,26): warning C4244: '+=' : conversion de '__int64' en 'int', perte possible de données
+C:\Users\romai\Romain\GitHub DATA\PCDISK-BACKUP\PC\PC\PC.cpp(195,63): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\romai\Romain\GitHub DATA\PCDISK-BACKUP\PC\PC\PC.cpp(199,13): error C2181: instruction else sans if correspondant non conforme
+C:\Users\romai\Romain\GitHub DATA\PCDISK-BACKUP\PC\PC\PC.cpp(221,38): error C2059: erreur de syntaxe : '&&'
+C:\Users\romai\Romain\GitHub DATA\PCDISK-BACKUP\PC\PC\PC.cpp(221,94): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\Users\romai\Romain\GitHub DATA\PCDISK-BACKUP\PC\PC\PC.cpp(225,26): warning C4244: '+=' : conversion de '__int64' en 'int', perte possible de données
+C:\Users\romai\Romain\GitHub DATA\PCDISK-BACKUP\PC\PC\PC.cpp(229,61): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\romai\Romain\GitHub DATA\PCDISK-BACKUP\PC\PC\PC.cpp(233,13): error C2181: instruction else sans if correspondant non conforme
